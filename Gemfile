@@ -8,6 +8,7 @@ group :development do
 end
 
 gem 'sass-rails', '4.0.1'
+# not available?
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
 gem 'jquery-rails', '3.0.4'
